@@ -1,0 +1,8 @@
+﻿.vs/CrudEstudiante/v16
+.vs/CrudEstudiante/DesignTimeBuild
+bin/Debug
+*.cache
+bin/Debug
+obj
+.vs/CrudEstudiante/config/applicationhost.config
+appsettings.json
